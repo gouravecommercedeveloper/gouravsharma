@@ -1,5 +1,5 @@
 // Replace this with your Formspree form endpoint after creating a form at https://formspree.io/
-const FORMSPREE_ENDPOINT = "";
+const FORMSPREE_ENDPOINT = "https://formsubmit.co/ajax/gourav.ecommercedeveloper@gmail.com";
 
 const menuToggle = document.getElementById("menuToggle");
 const navLinks = document.getElementById("navLinks");
